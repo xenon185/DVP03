@@ -14,7 +14,7 @@ t=[0:Ts:Ts*(Ns-1)]; %Make time array that contains Ns elements
 f1=500; f2=1800; f3=2000; f4=3200;
 x1=sin(2*pi*f1*t); x2=sin(2*pi*f2*t); x3=sin(2*pi*f3*t); x4=sin(2*pi*f4*t);
 x=x1+x2+x3+x4; %Calculate samples for a 4-tone input signal
-N=22; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
+N=23; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
 % Normierte Eckfrequenz im Durchlassbereich auf Fs/2. 1800 Hz/4000Hz = 9/20
 % = 0.45
 % Normierte Eckfrequenz im Sperrbereich auf Fs/2. 2600 Hz/4000 Hz = 13/20 = 0.65
@@ -22,7 +22,7 @@ W=(9/20); %Specify Bandstop filter with stop band between
  %0.4*(Fs/2) and 0.6*(Fs/2)
 B=fir1(N,W,'DC-1') %Design FIR Filter using default Hamming window.
 correction = 32767;
-B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
+B_correction =int16(B*correction) %cast B to 16 bit short Int
 %create header file fir_coef.h (FIR filter coefficients)
 filnam = fopen('LP_coeff.h', 'w'); % generate include-file
 fprintf(filnam,'#define N %d\n', N+1);
@@ -41,7 +41,7 @@ fclose(filnam);
 A=1; %FIR filters have no poles, only zeros.
 grid on;
 freqz(B,A); %Plot frequency response - both amp and phase response.
-pause; %User must hit any key on PC keyboard to continue.
+%pause; %User must hit any key on PC keyboard to continue.
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1); %Two subplots will go on this figure window.
 Npts=200;
@@ -53,7 +53,7 @@ y = filter(B,A,x);
 subplot(2,1,2); %Now go to bottom subplot.
 plot(t(1:Npts),y(1:Npts)); %Plot first Npts of filtered signal.
 xlabel('time (s)'); ylabel('Filtered Sig');
-pause;
+%pause;
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1);
 xfftmag=(abs(fft(x,Ns))); %Compute spectrum of input signal.

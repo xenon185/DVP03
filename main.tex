@@ -32,9 +32,9 @@
 
 \usepackage{listings}
 %\usepackage{beramono}						% Text im Codebereich
-\lstdefinestyle{styleNP}
+\lstdefinestyle{matlab}
 {
-language=C,
+language=Matlab,
 columns=flexible,
 belowcaptionskip=1\baselineskip,
 numbers=left,
@@ -48,6 +48,24 @@ keywordstyle=\bfseries\color{DarkPurple},	% Farbe für while, for, etc.
 commentstyle=\itshape\color{LightLime},		% Farbe für Kommentare
 stringstyle=\color{Blue},					% Farbe für Strings
 captionpos=b                    			% sets the caption-position to bottom
+}
+
+\lstdefinestyle{c}
+{
+	language=C,
+	columns=flexible,
+	belowcaptionskip=1\baselineskip,
+	numbers=left,
+	xleftmargin=\parindent,
+	frame=single,
+	breaklines=true,
+	frameround=tttt,
+	showstringspaces=false,						% 
+	basicstyle=\footnotesize\ttfamily,			% Schriftgröße verkleiner, weichere Darstellung
+	keywordstyle=\bfseries\color{DarkPurple},	% Farbe für while, for, etc.
+	commentstyle=\itshape\color{LightLime},		% Farbe für Kommentare
+	stringstyle=\color{Blue},					% Farbe für Strings
+	captionpos=b                    			% sets the caption-position to bottom
 }
 
 
@@ -116,7 +134,7 @@ captionpos=b                    			% sets the caption-position to bottom
 		
 		\pagestyle{scrheadings} %Hier ohne Seitenzahl
 		\setheadsepline{0.4pt}	
-		\ihead{Jahnke/Frisch/Parche}
+		\ihead{Jahnke/Parche}
 		\ohead{\includegraphics[width=0.215\textwidth]{HawLogo.png}}
 		\setfootsepline{0.4pt}
 		\ifoot{\today}

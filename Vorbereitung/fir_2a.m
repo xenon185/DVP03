@@ -21,7 +21,7 @@ N=22; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
 W=(9/20); %Specify Bandstop filter with stop band between
  %0.4*(Fs/2) and 0.6*(Fs/2)
 B=fir1(N,W,'DC-1') %Design FIR Filter using default Hamming window.
-correction = 4000;
+correction = 32767;
 B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
 %create header file fir_coef.h (FIR filter coefficients)
 filnam = fopen('LP_coeff.h', 'w'); % generate include-file

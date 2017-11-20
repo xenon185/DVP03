@@ -37,8 +37,9 @@ x=sum(f_kamm);
 [N, F0, A0, W] = firpmord(F, A, DEV, Fs)
 B=firpm(N, F0, A0, W) %Design FIR Filter using default Hamming window.
 %create header file fir_coef.h (FIR filter coefficients)
-correction = 4000;
-B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
+correction = 32767;
+%B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
+B_correction = floor(B*correction);
 %create header file fir_coef.h (FIR filter coefficients)
 filnam = fopen('LP_coeff_firpm.h', 'w'); % generate include-file
 fprintf(filnam,'#define N %d\n', N+1);
@@ -57,7 +58,7 @@ fclose(filnam);
 A=1; %FIR filters have no poles, only zeros.
 grid on;
 freqz(B,A); %Plot frequency response - both amp and phase response.
-pause; %User must hit any key on PC keyboard to continue.
+%pause; %User must hit any key on PC keyboard to continue.
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1); %Two subplots will go on this figure window.
 Npts=200;
@@ -70,7 +71,7 @@ y = filter(B,A,x);
 subplot(2,1,2); %Now go to bottom subplot.
 plot(t(1:Npts),y(1:Npts)); %Plot first Npts of filtered signal.
 xlabel('time (s)'); ylabel('Filtered Sig');
-pause;
+%pause;
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1);
 xfftmag=(abs(fft(x,Ns))); %Compute spectrum of input signal.

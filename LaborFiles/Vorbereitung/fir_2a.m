@@ -69,3 +69,7 @@ yfftmagh=yfftmag(1:length(yfftmag)/2);
 %Plot only the first half of FFT, since second half is mirror image
 plot(f,yfftmagh); %Plot frequency spectrum of input signal
 xlabel('freq (Hz)'); ylabel('Filt Sig Spectrum');
+
+
+figure()
+zplane(B,1)

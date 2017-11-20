@@ -6,7 +6,7 @@ clc;
 
 Fs=8e3; %Specify Sampling Frequency
 Ts=1/Fs; %Sampling period.
-Ns=1024; %No of time samples to be plotted.
+Ns=512; %No of time samples to be plotted.
 F=[500 800 2400 2700]; %Cutoff frequenzcy
 A=[0 1 0]; % Desired amplitude
 RP = 0.4; % Passband ripple
@@ -17,19 +17,24 @@ t=[0:Ts:Ts*(Ns-1)]; %Make time array that contains Ns elements
 %t = [0, Ts, 2Ts, 3Ts,..., (Ns-1)Ts]
 %create sampled sinusoids at different frequencies
 
-f_step = 100:100:3900;
-f_kamm = zeros(length(f_step),Ns);
-x = zeros(1,length(f_kamm));
+%create sampled sinusoids at different frequencies
+f1=500; f2=1800; f3=2000; f4=3200;
+x1=sin(2*pi*f1*t); x2=sin(2*pi*f2*t); x3=sin(2*pi*f3*t); x4=sin(2*pi*f4*t);
+x=x1+x2+x3+x4; %Calculate samples for a 4-tone input signal
 
-
-for i=1:length(f_kamm(:,1))
-    for j=1:Ns
-        f_kamm(i,j) = sin(2*pi*f_step(i)*t(j));
-    end
-    
-end
-
-x=sum(f_kamm);
+% f_step = 100:100:3900;
+% f_kamm = zeros(length(f_step),Ns);
+% x = zeros(1,length(f_kamm));
+% 
+% 
+% for i=1:length(f_kamm(:,1))
+%     for j=1:Ns
+%         f_kamm(i,j) = sin(2*pi*f_step(i)*t(j));
+%     end
+%     
+% end
+% 
+% x=sum(f_kamm);
 
 % N=16; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
 % W=[0.4 0.6]; %Specify Bandstop filter with stop band between
@@ -37,8 +42,8 @@ x=sum(f_kamm);
 [N, F0, A0, W] = firpmord(F, A, DEV, Fs)
 B=firpm(N, F0, A0, W) %Design FIR Filter using default Hamming window.
 %create header file fir_coef.h (FIR filter coefficients)
-correction = 4000;
-B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
+correction = 32767;
+B_correction = floor(B*correction) %cast B to 16 bit short Int
 %create header file fir_coef.h (FIR filter coefficients)
 filnam = fopen('BP_coeff.h', 'w'); % generate include-file
 fprintf(filnam,'#define N %d\n', N+1);
@@ -57,7 +62,7 @@ fclose(filnam);
 A=1; %FIR filters have no poles, only zeros.
 grid on;
 freqz(B,A); %Plot frequency response - both amp and phase response.
-pause; %User must hit any key on PC keyboard to continue.
+%pause; %User must hit any key on PC keyboard to continue.
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1); %Two subplots will go on this figure window.
 Npts=200;
@@ -70,7 +75,7 @@ y = filter(B,A,x);
 subplot(2,1,2); %Now go to bottom subplot.
 plot(t(1:Npts),y(1:Npts)); %Plot first Npts of filtered signal.
 xlabel('time (s)'); ylabel('Filtered Sig');
-pause;
+%pause;
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1);
 xfftmag=(abs(fft(x,Ns))); %Compute spectrum of input signal.

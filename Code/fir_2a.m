@@ -1,7 +1,3 @@
-% fir_2a.m
-% FIR filter design example using the MATLAB FIR1 function 
-% Autor: Nils Parche, 18.11.2017
-
 N=23; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
 % Normierte Eckfrequenz im Durchlassbereich auf Fs/2. 1800 Hz/4000Hz = 9/20
 % = 0.45

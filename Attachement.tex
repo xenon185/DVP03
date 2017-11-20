@@ -1,28 +1,51 @@
 \section{Attachements}
 
 \subsection{A1 Tiefpassentwurf mit fir()}
+Mit der Matlab Funktion fir() ist ein FIR-Tiefpassfilter zu entwerfen. Um die geforderten Grenzwerte einzuhalten muss zunächst die Filterordnung mit dem M\_File Kaiser\_Order\_01.m bestimmt werden. Die Koeffizienten werden mit dem M\_File fir\_1.m gemäß Listing 2 bestimmt. Außerdem wird der Amplitudengang (x=normiert auf Fs/2), das Zeitsignal und der Frequenzgang vor sowie nach dem Filter in einem Diagramm ausgegeben. Die normierten Filterkoeffizienten (normiert auf $\pm$ 1) müssen für die spätere Implementierung in den DSP auf 16-Bit Integer werte angepasst werden. Dazu werden die Koeffizienten mit einem Korrekturfaktor versehen. In Abbildung \ref{lst:fir_2a_matlab} sind die Änderungen von Listing 2 aufgeführt.\\Korrekturwert maximal 1 $\approx$ 32767 $\rightarrow$ 1-Bit Vorzeichen + 15-Bit Wertebereich.
 
+\begin{equation}
+b_{k}(x) = b(x) * 2^{15}-1
+\end{equation}
 
- \lstinputlisting[style=matlab, caption={butterfly correction}, label={lst:butterfly}]{Code/fir_2a.m}
+\begin{table}[h]
+	\centering
+	\begin{tabular}{c | c}
+		Parameter	& Wert	\\
+		\hline
+		Eckfrequenz Durchlassbereich			& $1800~Hz$	\\
+		Eckfrequenz Sperrbereich				& $2600~Hz$	\\
+		Maximaler Ripple im Durchlassbereich	& $0.5~db$	\\
+		Minimale Sperrdämpfung					& $40~db$	\\
+		Abtastfrequenz							& $8000~Hz$	\\
+	\end{tabular}
+\end{table}
 
-\begin{figure}
+\lstinputlisting[style=matlab, caption={fir\_2a.m Matlab-File Auszug - Tiefpassfilter Ordnung 23}, label={lst:fir_2a_matlab}]{Code/fir_2a.m}
+
+\newpage
+
+\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 23}, label={lst:fir_2a_koeff}]{Code/LP_coeff.h}
+
+\begin{figure}[h]
 \centering
-\includegraphics[width=0.7\linewidth]{Bilder/Attachment_A1_fir_2a_Amplitudengang}
-\caption{}
+\includegraphics[width=0.8\linewidth]{Bilder/Attachment_A1_fir_2a_Amplitudengang}
+\caption{Amplituden und Phasengang - FIR-Filter Tiefpass}
 \label{fig:Attachment_A1_fir_2a_Amplitudengang}
 \end{figure}
+\newpage
 
-\begin{figure}
+\begin{figure}[h]
 \centering
-\includegraphics[width=0.7\linewidth]{Bilder/Attachment_A1_fir_2a_Timeplot}
-\caption{}
+\includegraphics[width=0.6\linewidth]{Bilder/Attachment_A1_fir_2a_Timeplot}
+\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Tiefpass}
 \label{fig:Attachment_A1_fir_2a_Timeplot}
+\vspace{-10pt}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h]
 \centering
-\includegraphics[width=0.7\linewidth]{Bilder/Attachment_A1_fir_2a_Spektrum}
-\caption{}
+\includegraphics[width=0.6\linewidth]{Bilder/Attachment_A1_fir_2a_Spektrum}
+\caption{Eingangs- gefiltertes Ausgangs Frequenzspektrum}
 \label{fig:Attachment_A1_fir_2a_Spektrum}
 \end{figure}
 
@@ -30,8 +53,64 @@
 \newpage
 \subsection{A2 Tiefpassentwurd mit firpm()}
 
+\lstinputlisting[style=matlab, caption={fir\_2b.m Matlab-File Auszug - Tiefpassfilter Ordnung 16}, label={lst:fir_2b_matlab}]{Code/fir_2b.m}
+
+\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 16}, label={lst:fir_2b_koeff}]{Code/LP_coeff_firpm.h}
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_A2_fir_2b_Amplitudengang}
+\caption{Amplituden und Phasengang - FIR-Filter Tiefpass}
+\label{fig:Attachment_A2_fir_2b_Amplitudengang}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_A2_fir_2b_Timeplot}
+\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Tiefpass}
+\label{fig:Attachment_A2_fir_2b_Timeplot}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_A2_fir_2b_Spektrum}
+\caption{Eingangs- gefiltertes Ausgangs Frequenzspektrum}
+\label{fig:Attachment_A2_fir_2b_Spektrum}
+\end{figure}
+
+
+\newpage
 \subsection{B Bandpass-Filterentwurf}
 
+\lstinputlisting[style=matlab, caption={fir\_3.m Matlab-File Auszug - Bandpassfilter Ordnung 45}, label={lst:fir_3_matlab}]{Code/fir_3.m}
+
+\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 45}, label={lst:fir_3_koeff}]{Code/BP_coeff.h}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Amplitudengang}
+\caption{Amplituden und Phasengang - FIR-Filter Bandpass}
+\label{fig:Attachment_B_fir_3_Amplitudengang}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Timeplot}
+\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Bandpass}
+\label{fig:Attachment_B_fir_3_Timeplot}
+\end{figure}
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Spektrum}
+\caption{Eingangs- gefiltertes Ausgangs Frequenzspektrum}
+\label{fig:Attachment_B_fir_3_Spektrum}
+\end{figure}
+
+
+\newpage
 \subsection{C1 Analoge Übertragungscharakteristik des DSK Boards}
 
 \subsection{C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}

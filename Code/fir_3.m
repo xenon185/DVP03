@@ -11,7 +11,8 @@ RP = 0.4; % Passband ripple
 RS = 40; % Stopband ripple
 DEV = [10^(-RS/20) (10^(RP/20)-1)/(10^(RP/20)+1) 10^(-RS/20)];
 
-[N, F0, A0, W] = firpmord(F, A, DEV, Fs)
+[N, F0, A0, W] = firpmord(F, A, DEV, Fs);
+N = N+5;
 B=firpm(N, F0, A0, W) %Design FIR Filter using default Hamming window.
 %create header file fir_coef.h (FIR filter coefficients)
 correction = 32767;

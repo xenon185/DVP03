@@ -26,6 +26,7 @@ x=x1+x2+x3+x4; %Calculate samples for a 4-tone input signal
 % W=[0.4 0.6]; %Specify Bandstop filter with stop band between
 %0.4*(Fs/2) and 0.6*(Fs/2)
 [N, F0, A0, W] = firpmord(F, A, DEV, Fs)
+%N = N+2;
 B=firpm(N, F0, A0, W) %Design FIR Filter using default Hamming window.
 %create header file fir_coef.h (FIR filter coefficients)
 correction = 32767;

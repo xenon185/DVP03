@@ -11,7 +11,8 @@ RP = 0.5; % Passband ripple
 RS = 40; % Stopband ripple
 DEV = [(10^(RP/20)-1)/(10^(RP/20)+1)  10^(-RS/20)];
 
-[N, F0, A0, W] = firpmord(F, A, DEV, Fs)
+[N, F0, A0, W] = firpmord(F, A, DEV, Fs);
+N = N+2; % Korrektur der Filterkoeffizienten um die Sperrdaempfung zu erreichen
 B=firpm(N, F0, A0, W) %Design FIR Filter using default Hamming window.
 correction = 32767;
 %B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int

@@ -6,7 +6,7 @@ clc;
 
 Fs=8e3; %Specify Sampling Frequency
 Ts=1/Fs; %Sampling period.
-Ns=512; %No of time samples to be plotted.
+Ns=4096; %No of time samples to be plotted.
 t=[0:Ts:Ts*(Ns-1)]; %Make time array that contains Ns elements
  %t = [0, Ts, 2Ts, 3Ts,..., (Ns-1)Ts]
 

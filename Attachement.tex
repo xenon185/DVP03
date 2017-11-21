@@ -70,12 +70,6 @@ b_{k}(x) = b(x) * 2^{15}-1
 
 \noindent Alternativ zur Funktion fir1() soll jetzt die Funktion firpm() verwendet werden um einen FIR-Tiefpassfilter in MATLAB zu entwerfen. In Code-Listing \ref{lst:fir_2b_matlab} sind die Funktionsparameter beschrieben. Die Koeffizienten müssen wie in Kapitel \ref{cap:A1} angepasst werden.
 
-\begin{table}
-	\begin{tabular}{c | c}
-		Koeffizienten
-	\end{tabular}
-\end{table}
-
 \lstinputlisting[style=matlab, caption={fir\_2b.m Matlab-File Auszug - Tiefpassfilter Ordnung 16/18}, label={lst:fir_2b_matlab}]{Code/fir_2b.m}
 
 \lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 16}, label={lst:fir_2b_koeff}]{Code/LP_coeff_firpm_17K.h}
@@ -271,10 +265,10 @@ Im Durchlassbereich ist dies nicht so (siehe Abknicken des Durchlassbereiches de
 Folgende Abbildung zeigt die Messung mit einem Frequenzsweep von 4kHz des Analyzers:\\
 
 \begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{Bilder/letzteAufgabe}
-\caption{}
-\label{fig:letzteAufgabe}
+	\centering
+	\includegraphics[width=1\linewidth]{Bilder/Attachment_G_1-TP}
+	\caption{Messung: Frequenzgang des FIR-Tiefpasses (Änderung des mittleren Koeffizienten) mit einem 4kHz Frequenzsweep}
+	\label{fig:Attachment_G_1-TP}
 \end{figure}
 
  

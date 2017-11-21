@@ -2,24 +2,12 @@
 \contentsline {section}{\numberline {2}Attachements}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}A1 Tiefpassentwurf mit fir()}{2}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}A2 Tiefpassentwurf mit firpm()}{5}{subsection.2.2}
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {2.3}B Bandpass-Filterentwurf}{8}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}C1 Analoge \IeC {\"U}bertragungscharakteristik des DSK Boards}{11}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}{12}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudenganges vom FIR-Filter Matlab - DSK Board}{13}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{14}{subsection.2.7}
-\contentsline {subsection}{\numberline {2.8}E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}{15}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{16}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{18}{subsection.2.10}
-\contentsline {section}{\numberline {3}Fazit}{19}{section.3}
-=======
 \contentsline {subsection}{\numberline {2.3}B Bandpass-Filterentwurf}{9}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}C1 Analoge \IeC {\"U}bertragungscharakteristik des DSK Boards}{11}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}{11}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudengangs vom FIR-Filter Matlab - DSK Board}{11}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{11}{subsection.2.7}
-\contentsline {subsection}{\numberline {2.8}E Weichenfilter Transformation mit $h_{TP} \rightarrow h_{HP} .............$}{11}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{11}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}G Weichenfilter Transformation mit $h_{TP} \rightarrow h_{HP} ..............$}{11}{subsection.2.10}
-\contentsline {section}{\numberline {3}Fazit}{12}{section.3}
->>>>>>> Nils0
+\contentsline {subsection}{\numberline {2.4}C1 Analoge \IeC {\"U}bertragungscharakteristik des DSK Boards}{12}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}{13}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudenganges vom FIR-Filter Matlab - DSK Board}{14}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{15}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}{16}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{17}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{19}{subsection.2.10}
+\contentsline {section}{\numberline {3}Fazit}{20}{section.3}

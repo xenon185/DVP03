@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.12)  21 NOV 2017 16:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.12)  21 NOV 2017 19:30
 entering extended mode
 **main.tex
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.tex"
@@ -18,18 +17,6 @@ ishmax, welsh, loaded.
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.20)  21 NOV 2017 16:01
-entering extended mode
-**./main.tex
-(main.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
->>>>>>> Nils0
 )
 \c@part=\count79
 \c@section=\count80
@@ -43,7 +30,6 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -51,32 +37,16 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
->>>>>>> Nils0
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
->>>>>>> Nils0
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -197,10 +167,6 @@ File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -208,10 +174,6 @@ File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+200C (decimal 8204)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
@@ -230,17 +192,10 @@ File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
->>>>>>> Nils0
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -258,14 +213,6 @@ File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -276,13 +223,8 @@ File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
->>>>>>> Nils0
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -304,7 +246,6 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-<<<<<<< HEAD
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
@@ -320,78 +261,30 @@ Language: germanb 2008/06/01 v2.6m German support from the babel system
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
-=======
-)) ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
-y"
-Package: babel 2015/08/03 3.9m The Babel package
-*************************************
-* Local config file bblopts.cfg used
-*
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.cf
-g"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\german
-.ldf"
-Language: german 2014/10/10 v2.7b German support for babel (traditional orthogr
-aphy)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\german
-b.ldf"
-Language: germanb 2014/10/10 v2.7b German support for babel (traditional orthog
-raphy)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2015/08/03 3.9m Babel common definitions
->>>>>>> Nils0
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 \l@austrian = a dialect from \language\l@german 
-<<<<<<< HEAD
 Package babel Info: Making " an active character on input line 102.
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-=======
-Package babel Info: Making " an active character on input line 110.
-)))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-"
->>>>>>> Nils0
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-"
-Package: amstext 2000/06/29 v2.01
- ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
->>>>>>> Nils0
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen105
-) ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
-y"
->>>>>>> Nils0
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
@@ -432,19 +325,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.s
-ty"
->>>>>>> Nils0
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
@@ -454,20 +341,6 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
-"
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.st
-y"
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
->>>>>>> Nils0
 \KV@toks@=\toks21
 )
 \captionmargin=\dimen113
@@ -480,7 +353,6 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 )
 \c@ContinuedFloat=\count100
 )
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -491,26 +363,10 @@ Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
-ty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
-ty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.c
-fg"
->>>>>>> Nils0
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
@@ -518,18 +374,6 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.d
-ef"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
-r.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
-sty"
->>>>>>> Nils0
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -537,12 +381,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
-.sty"
->>>>>>> Nils0
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip46
 \subfigcapskip=\skip47
@@ -558,7 +397,6 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
 \subfig@top=\skip50
 \subfig@bottom=\skip51
@@ -568,18 +406,6 @@ Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-=======
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
-.cfg")
-\subfig@top=\skip50
-\subfig@bottom=\skip51
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
-Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
->>>>>>> Nils0
 \col@sep=\dimen124
 \extrarowheight=\dimen125
 \NC@list=\toks22
@@ -594,12 +420,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@cols=\count106
 \TX@ftn=\toks23
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.s
-ty"
->>>>>>> Nils0
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen131
 \lightrulewidth=\dimen132
@@ -619,7 +440,6 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count110
 \@thisrulewidth=\dimen143
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\trfsigns\trfsigns.sty
 Package: trfsigns 
 )
@@ -628,18 +448,6 @@ Package: scrpage2 2016/05/10 v3.20 KOMA-Script package (page head and foot)
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\german\ngerman.sty
 v2.5e 1998-07-08
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trfsigns\trfsigns.s
-ty"
-Package: trfsigns 
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrpage
-2.sty"
-Package: scrpage2 2015/10/03 v3.19a KOMA-Script package (page head and foot)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\german\ngerman.st
-y" v2.5e 1998-07-08
->>>>>>> Nils0
 Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 \grmnU@D=\dimen144
 LaTeX Info: Redefining \glqq on input line 255.
@@ -648,15 +456,10 @@ LaTeX Info: Redefining \flqq on input line 281.
 LaTeX Info: Redefining \frqq on input line 289.
 LaTeX Info: Redefining \flq on input line 297.
 LaTeX Info: Redefining \frq on input line 304.
-ngerman -- \language number for naustrian undefined, default 44 used.
+ngerman -- \language number for naustrian undefined, default 43 used.
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\german\german.sty
 v2.5e 1998-07-08
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\german\german.sty
-" v2.5e 1998-07-08
->>>>>>> Nils0
 Package: german 1998/07/08 v2.5e Support for writing german texts (br)
 LaTeX Info: Redefining \glqq on input line 251.
 LaTeX Info: Redefining \glq on input line 264.
@@ -665,7 +468,6 @@ LaTeX Info: Redefining \frqq on input line 285.
 LaTeX Info: Redefining \flq on input line 293.
 LaTeX Info: Redefining \frq on input line 300.
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
@@ -674,17 +476,6 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.s
-ty"
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rotating\rotating.s
-ty"
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
- ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
->>>>>>> Nils0
 )
 \c@r@tfl@t=\count111
 \rotFPtop=\skip54
@@ -692,21 +483,12 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box28
 \rot@mess@toks=\toks24
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
 \CommentStream=\write3
 
 Excluding comment 'comment')
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.sty
-"
-\CommentStream=\write3
- Excluding comment 'comment')
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty"
-Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
->>>>>>> Nils0
 \c@tracingmulticols=\count112
 \mult@box=\box29
 \multicol@leftmargin=\dimen145
@@ -723,7 +505,6 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \multicolbaselineskip=\skip57
 \partial@page=\box30
 \last@line=\box31
-\maxbalancingoverflow=\dimen150
 \mult@rightbox=\box32
 \mult@grightbox=\box33
 \mult@gfirstbox=\box34
@@ -747,28 +528,28 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box52
 \c@columnbadness=\count118
 \c@finalcolumnbadness=\count119
-\last@try=\dimen151
-\multicolovershoot=\dimen152
-\multicolundershoot=\dimen153
+\last@try=\dimen150
+\multicolovershoot=\dimen151
+\multicolundershoot=\dimen152
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\mc@col@check@num=\count120
+\multicol@sort@counter=\count120
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 \wrapoverhang=\dimen153
 \WF@size=\dimen154
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
-"
-\wrapoverhang=\dimen154
-\WF@size=\dimen155
->>>>>>> Nils0
 \c@WF@wrappedlines=\count121
 \WF@box=\box55
 \WF@everypar=\toks25
 Package: wrapfig 2003/01/31  v 3.6
-<<<<<<< HEAD
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count122
+\float@exts=\toks26
+\float@box=\box56
+\@float@everytoks=\toks27
+\@floatcapt=\box57
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -778,27 +559,6 @@ Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-=======
-) ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count122
-\float@exts=\toks26
-\float@box=\box56
-\@float@everytoks=\toks27
-\@floatcapt=\box57
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
-ty"
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
-yperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
-eneric.sty"
->>>>>>> Nils0
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -839,7 +599,6 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -847,42 +606,20 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
-ty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
-y"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
-sty"
->>>>>>> Nils0
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen156
+\@linkdim=\dimen155
 \Hy@linkcounter=\count123
 \Hy@pagecounter=\count124
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-"
->>>>>>> Nils0
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count125
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
-fg"
->>>>>>> Nils0
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -892,22 +629,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-<<<<<<< HEAD
-\c@Hy@tempcnt=\count125
+\c@Hy@tempcnt=\count126
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
-=======
-\c@Hy@tempcnt=\count126
- ("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
->>>>>>> Nils0
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen157
+\XeTeXLinkMargin=\dimen156
 \Fld@menulength=\count127
-\Field@Width=\dimen158
-\Fld@charsize=\dimen159
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -924,30 +656,18 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-=======
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
-f"
->>>>>>> Nils0
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count131
 \c@bookmark@seq@number=\count132
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
-heck.sty"
->>>>>>> Nils0
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip58
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\pgfplots\pgfplots.sty
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\pgfplots.revisi
 on.tex)
@@ -958,7 +678,7 @@ Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon.tex
-\pgfutil@everybye=\toks26
+\pgfutil@everybye=\toks28
 \pgfutil@tempdima=\dimen159
 \pgfutil@tempdimb=\dimen160
 
@@ -966,48 +686,16 @@ mmon.tex
 mmon-lists.tex))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
 tex.def
-\pgfutil@abb=\box56
+\pgfutil@abb=\box58
  (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
 e.tex
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.s
-ty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.revision.tex")
-Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\t
-ikz.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.
-sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrc
-s.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-common.tex"
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen160
-\pgfutil@tempdimb=\dimen161
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-common-lists.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-latex.def"
-\pgfutil@abb=\box58
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-rcs.code.tex"
->>>>>>> Nils0
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
@@ -1018,12 +706,12 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
 de.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks31
 ))
 \pgf@x=\dimen161
 \pgf@y=\dimen162
@@ -1035,43 +723,6 @@ tered.code.tex
 \pgf@yc=\dimen168
 \w@pgf@writea=\write4
 \r@pgf@reada=\read1
-\c@pgf@counta=\count132
-\c@pgf@countb=\count133
-\c@pgf@countc=\count134
-\c@pgf@countd=\count135
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
-
-(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfc
-ore.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgf
-sys.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys.code.tex"
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keys.code.tex"
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks31
-))
-\pgf@x=\dimen162
-\pgf@y=\dimen163
-\pgf@xa=\dimen164
-\pgf@ya=\dimen165
-\pgf@xb=\dimen166
-\pgf@yb=\dimen167
-\pgf@xc=\dimen168
-\pgf@yc=\dimen169
-\w@pgf@writea=\write4
-\r@pgf@reada=\read1
 \c@pgf@counta=\count133
 \c@pgf@countb=\count134
 \c@pgf@countc=\count135
@@ -1080,14 +731,11 @@ keysfiltered.code.tex"
 \t@pgf@tokb=\toks33
 \t@pgf@tokc=\toks34
 
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gf.cfg"
->>>>>>> Nils0
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
 dftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
@@ -1099,8 +747,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
 ftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count136
-\pgfsyssoftpath@bigbuffer@items=\count137
+\pgfsyssoftpath@smallbuffer@items=\count137
+\pgfsyssoftpath@bigbuffer@items=\count138
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
 otocol.code.tex
@@ -1110,30 +758,6 @@ File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys-pdftex.def"
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count137
-\pgfsyssoftpath@bigbuffer@items=\count138
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
->>>>>>> Nils0
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -1147,7 +771,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
 ode.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
@@ -1161,11 +784,11 @@ e.tex)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
 ode.tex
 \pgfmath@dimen=\dimen169
-\pgfmath@count=\count138
-\pgfmath@box=\box57
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@count=\count139
+\pgfmath@box=\box59
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
 s.code.tex
@@ -1187,7 +810,7 @@ s.misc.code.tex)
 s.integerarithmetics.code.tex)))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
 de.tex
-\c@pgfmathroundto@lastzeros=\count139
+\c@pgfmathroundto@lastzeros=\count140
 ))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
 ints.code.tex
@@ -1222,10 +845,10 @@ File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
 opes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box58
-\pgf@hbox=\box59
-\pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count140
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count141
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
 aphicstate.code.tex
@@ -1260,7 +883,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen193
-\pgf@sys@shading@range@num=\count141
+\pgf@sys@shading@range@num=\count142
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
 age.code.tex
@@ -1269,7 +892,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
 ternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box61
+\pgfexternal@startupbox=\box63
 ))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
 yers.code.tex
@@ -1286,7 +909,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
 pes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box62
+\pgfnodeparttextbox=\box64
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
 t.code.tex
@@ -1317,8 +940,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 x)
 \pgffor@iter=\dimen196
 \pgffor@skip=\dimen197
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
 ))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
 ikz.code.tex
@@ -1327,7 +950,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
 plothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count142
+\pgf@plot@mark@count=\count143
 \pgfplotmarksize=\dimen198
 )
 \tikz@lastx=\dimen199
@@ -1336,23 +959,23 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@lastysaved=\dimen202
 \tikzleveldistance=\dimen203
 \tikzsiblingdistance=\dimen204
-\tikz@figbox=\box63
-\tikz@figbox@bg=\box64
-\tikz@tempbox=\box65
-\tikz@tempbox@bg=\box66
-\tikztreelevel=\count143
-\tikznumberofchildren=\count144
-\tikznumberofcurrentchild=\count145
-\tikz@fig@count=\count146
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count144
+\tikznumberofchildren=\count145
+\tikznumberofcurrentchild=\count146
+\tikz@fig@count=\count147
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
 rix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count147
-\pgfmatrixcurrentcolumn=\count148
-\pgf@matrix@numberofcolumns=\count149
+\pgfmatrixcurrentrow=\count148
+\pgfmatrixcurrentcolumn=\count149
+\pgf@matrix@numberofcolumns=\count150
 )
-\tikz@expandcount=\count150
+\tikz@expandcount=\count151
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarytopaths.code.tex
@@ -1362,12 +985,12 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ex
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\pgfplotscore.co
 de.tex
-\t@pgfplots@toka=\toks38
-\t@pgfplots@tokb=\toks39
-\t@pgfplots@tokc=\toks40
+\t@pgfplots@toka=\toks40
+\t@pgfplots@tokb=\toks41
+\t@pgfplots@tokc=\toks42
 \pgfplots@tmpa=\dimen205
-\c@pgfplots@coordindex=\count151
-\c@pgfplots@scanlineindex=\count152
+\c@pgfplots@coordindex=\count152
+\c@pgfplots@scanlineindex=\count153
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\sys\pgfplotssys
 generic.code.tex))
@@ -1383,7 +1006,7 @@ Package pgfplots: loading complementary arithmetics for your pgf version...
 pgfplotsoldpgfsupp_pgflibraryfpu.code.tex)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\oldpgfcompatib\
 pgfplotsoldpgfsupp_pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count153
+\c@pgfmathroundto@lastzeros=\count154
 ))
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\util\pgfplotsut
 il.code.tex
@@ -1393,14 +1016,14 @@ gfplotsliststructure.code.tex)
 gfplotsliststructureext.code.tex)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count154
+\c@pgfplotsarray@tmp=\count155
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsmatrix.code.tex)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\numtable\pgfplo
 tstableshared.code.tex
-\c@pgfplotstable@counta=\count155
-\t@pgfplotstable@a=\toks41
+\c@pgfplotstable@counta=\count156
+\t@pgfplotstable@a=\toks43
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsdeque.code.tex)
@@ -1412,7 +1035,7 @@ nary.data.code.tex))
 il.verb.code.tex)
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\libs\pgflibrary
 pgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count156
+\c@pgfplotslibrarysurf@no=\count157
 
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\sys\pgflibraryp
 gfplots.surfshading.pgfsys-pdftex.def)))
@@ -1449,11 +1072,11 @@ orations.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen208
 \pgfdecoratedinputsegmentremainingdistance=\dimen209
 \pgf@decorate@distancetomove=\dimen210
-\pgf@decorate@repeatstate=\count157
+\pgf@decorate@repeatstate=\count158
 \pgfdecorationsegmentamplitude=\dimen211
 \pgfdecorationsegmentlength=\dimen212
 )
-\tikz@lib@dec@box=\box67
+\tikz@lib@dec@box=\box69
 )
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -1463,7 +1086,7 @@ s\pgflibrarydecorations.pathmorphing.code.tex))
 ibraries\tikzlibrarydecorations.pathreplacing.code.tex
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\decoration
 s\pgflibrarydecorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count158
+\pgfplots@numplots=\count159
 \pgfplots@xmin@reg=\dimen213
 \pgfplots@xmax@reg=\dimen214
 \pgfplots@ymin@reg=\dimen215
@@ -1485,409 +1108,38 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count159
-)
-(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
-\lst@mode=\count160
-\lst@gtempboxa=\box68
-\lst@token=\toks42
-\lst@length=\count161
-\lst@currlwidth=\dimen219
-\lst@column=\count162
-\lst@pos=\count163
-\lst@lostspace=\dimen220
-\lst@width=\dimen221
-\lst@newlines=\count164
-\lst@lineno=\count165
-\lst@maxwidth=\dimen222
-
-(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count166
-\lst@skipnumbers=\count167
-\lst@framebox=\box69
-)
-(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcore.code.tex"
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathc
-alc.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathu
-til.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathp
-arser.code.tex"
-\pgfmath@dimen=\dimen170
-\pgfmath@count=\count139
-\pgfmath@box=\box59
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.basic.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.trigonometric.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.random.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.comparison.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.base.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.round.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.misc.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.integerarithmetics.code.tex")))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-loat.code.tex"
-\c@pgfmathroundto@lastzeros=\count140
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen171
-\pgf@picmaxx=\dimen172
-\pgf@picminy=\dimen173
-\pgf@picmaxy=\dimen174
-\pgf@pathminx=\dimen175
-\pgf@pathmaxx=\dimen176
-\pgf@pathminy=\dimen177
-\pgf@pathmaxy=\dimen178
-\pgf@xx=\dimen179
-\pgf@xy=\dimen180
-\pgf@yx=\dimen181
-\pgf@yy=\dimen182
-\pgf@zx=\dimen183
-\pgf@zy=\dimen184
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen185
-\pgf@path@lasty=\dimen186
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen187
-\pgf@shorten@start@additional=\dimen188
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box60
-\pgf@hbox=\box61
-\pgf@layerbox@main=\box62
-\pgf@picture@serial@count=\count141
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen189
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen190
-\pgf@pt@y=\dimen191
-\pgf@pt@temp=\dimen192
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorequick.code.tex"
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen193
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen194
-\pgf@sys@shading@range@num=\count142
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box63
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-duleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box64
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-duleplot.code.tex"
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
-gfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen195
-\pgf@nodesepend=\dimen196
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
-gfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffo
-r.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfke
-ys.sty"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keys.code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.st
-y"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-for.code.tex"
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex")
-\pgffor@iter=\dimen197
-\pgffor@skip=\dimen198
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\tikz.code.tex"
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgf
-libraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count143
-\pgfplotmarksize=\dimen199
-)
-\tikz@lastx=\dimen256
-\tikz@lasty=\dimen257
-\tikz@lastxsaved=\dimen258
-\tikz@lastysaved=\dimen259
-\tikzleveldistance=\dimen260
-\tikzsiblingdistance=\dimen261
-\tikz@figbox=\box65
-\tikz@figbox@bg=\box66
-\tikz@tempbox=\box67
-\tikz@tempbox@bg=\box68
-\tikztreelevel=\count144
-\tikznumberofchildren=\count145
-\tikznumberofcurrentchild=\count146
-\tikz@fig@count=\count147
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-dulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count148
-\pgfmatrixcurrentcolumn=\count149
-\pgf@matrix@numberofcolumns=\count150
-)
-\tikz@expandcount=\count151
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-core.code.tex"
-\t@pgfplots@toka=\toks40
-\t@pgfplots@tokb=\toks41
-\t@pgfplots@tokc=\toks42
-\pgfplots@tmpa=\dimen262
-\c@pgfplots@coordindex=\count152
-\c@pgfplots@scanlineindex=\count153
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfp
-lotssysgeneric.code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgf
-plotslibrary.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgfco
-mpatib\pgfplotsoldpgfsupp_loader.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgf
-libraryfpu.code.tex")
-Package pgfplots: loading complementary arithmetics for your pgf version...
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgfco
-mpatib\pgfplotsoldpgfsupp_pgflibraryfpu.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgfco
-mpatib\pgfplotsoldpgfsupp_pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count154
-))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotsutil.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststru
-cture\pgfplotsliststructure.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststru
-cture\pgfplotsliststructureext.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststru
-cture\pgfplotsarray.code.tex"
-\c@pgfplotsarray@tmp=\count155
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststru
-cture\pgfplotsmatrix.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtable
-\pgfplotstableshared.code.tex"
-\c@pgfplotstable@counta=\count156
-\t@pgfplotstable@a=\toks43
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststru
-cture\pgfplotsdeque.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotsbinary.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotsbinary.data.code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotsutil.verb.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgf
-librarypgfplots.surfshading.code.tex"
-\c@pgfplotslibrarysurf@no=\count157
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfl
-ibrarypgfplots.surfshading.pgfsys-pdftex.def")))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotscolormap.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgf
-plotscolor.code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-stackedplots.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-plothandlers.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-meshplothandler.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-meshplotimage.code.tex")))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.scaling.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-coordprocessing.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.errorbars.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.markers.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-ticks.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots
-.paths.code.tex")
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibrarydecorations.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-duledecorations.code.tex"
-\pgfdecoratedcompleteddistance=\dimen263
-\pgfdecoratedremainingdistance=\dimen264
-\pgfdecoratedinputsegmentcompleteddistance=\dimen265
-\pgfdecoratedinputsegmentremainingdistance=\dimen266
-\pgf@decorate@distancetomove=\dimen267
-\pgf@decorate@repeatstate=\count158
-\pgfdecorationsegmentamplitude=\dimen268
-\pgfdecorationsegmentlength=\dimen269
-)
-\tikz@lib@dec@box=\box69
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\dec
-orations\pgflibrarydecorations.pathmorphing.code.tex"))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex"
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\dec
-orations\pgflibrarydecorations.pathreplacing.code.tex"))
-\pgfplots@numplots=\count159
-\pgfplots@xmin@reg=\dimen270
-\pgfplots@xmax@reg=\dimen271
-\pgfplots@ymin@reg=\dimen272
-\pgfplots@ymax@reg=\dimen273
-\pgfplots@zmin@reg=\dimen274
-\pgfplots@zmax@reg=\dimen275
-)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibraryplotmarks.code.tex"
-File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgf
-libraryplotmarks.code.tex"
-File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-)))
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
-y"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
-string.sty"
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
 \c@section@level=\count160
 )
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.s
-ty"
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 \lst@mode=\count161
 \lst@gtempboxa=\box70
 \lst@token=\toks44
 \lst@length=\count162
-\lst@currlwidth=\dimen276
+\lst@currlwidth=\dimen219
 \lst@column=\count163
 \lst@pos=\count164
-\lst@lostspace=\dimen277
-\lst@width=\dimen278
+\lst@lostspace=\dimen220
+\lst@width=\dimen221
 \lst@newlines=\count165
 \lst@lineno=\count166
-\lst@maxwidth=\dimen279
+\lst@maxwidth=\dimen222
 
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
-y"
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count167
 \lst@skipnumbers=\count168
 \lst@framebox=\box71
 )
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.c
-fg"
->>>>>>> Nils0
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count168
-\Gm@cntv=\count169
-\c@Gm@tempcnt=\count170
+\Gm@cnth=\count169
+\Gm@cntv=\count170
+\c@Gm@tempcnt=\count171
 \Gm@bindingoffset=\dimen223
 \Gm@wd@mp=\dimen224
 \Gm@odd@mp=\dimen225
@@ -1896,52 +1148,17 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutheight=\dimen228
 \Gm@layouthoffset=\dimen229
 \Gm@layoutvoffset=\dimen230
-\Gm@dimlist=\toks43
+\Gm@dimlist=\toks45
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.aux"
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Inhalt.aux")
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Attachement.aux")
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
-ty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count169
-\Gm@cntv=\count170
-\c@Gm@tempcnt=\count171
-\Gm@bindingoffset=\dimen280
-\Gm@wd@mp=\dimen281
-\Gm@odd@mp=\dimen282
-\Gm@even@mp=\dimen283
-\Gm@layoutwidth=\dimen284
-\Gm@layoutheight=\dimen285
-\Gm@layouthoffset=\dimen286
-\Gm@layoutvoffset=\dimen287
-\Gm@dimlist=\toks45
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
-fg")) (main.aux (Inhalt.aux) (Attachement.aux
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Attachement.aux"
 
 LaTeX Warning: Label `lst:fir_2b_koeff' multiply defined.
 
-) (Fazit.aux) (Anhang.aux))
-\openout1 = `main.aux'.
-
+) ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.aux")
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Anhang.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
@@ -1956,7 +1173,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
->>>>>>> Nils0
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1966,36 +1182,19 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-<<<<<<< HEAD
 (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
-\scratchdimen=\dimen231
-\scratchbox=\box70
-\nofMPsegments=\count172
-\nofMParguments=\count173
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count174
-\MPscratchDim=\dimen232
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
-\everyMPtoPDFconversion=\toks45
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
-i"
-[Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count172
-\scratchdimen=\dimen288
+\scratchdimen=\dimen231
 \scratchbox=\box72
 \nofMPsegments=\count173
 \nofMParguments=\count174
 \everyMPshowfont=\toks46
 \MPscratchCnt=\count175
-\MPscratchDim=\dimen289
+\MPscratchDim=\dimen232
 \MPnumerator=\count176
 \makeMPintoPDFobject=\count177
 \everyMPtoPDFconversion=\toks47
->>>>>>> Nils0
 )
 
 Package scrpage2 Warning: seems you are using a constant headheight.
@@ -2005,42 +1204,23 @@ Package scrpage2 Warning: seems you are using a constant headheight.
 (scrpage2)                into the preamble of your document.
 (scrpage2)                A better solution would be to use typearea package.
 
-<<<<<<< HEAD
-\AtBeginShipoutBox=\box71
-Package hyperref Info: Link coloring OFF on input line 74.
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.out")
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.out")
-\@outlinefile=\write5
-
-ABD: EveryShipout initializing macros
-=======
 \AtBeginShipoutBox=\box73
 Package hyperref Info: Link coloring OFF on input line 75.
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
 LaTeX Info: Redefining \nameref on input line 75.
-(main.out) (main.out)
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.out")
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.out")
 \@outlinefile=\write5
-\openout5 = `main.out'.
 
- ABD: EveryShipout initializing macros
->>>>>>> Nils0
+ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
 your preamble.
-<<<<<<< HEAD
- on input line 74.
-
-\c@lstlisting=\count177
-=======
  on input line 75.
 
 \c@lstlisting=\count178
->>>>>>> Nils0
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -2082,35 +1262,19 @@ Package pdftex.def Info: HawLogo.png used on input line 81.
 (pdftex.def)             Requested size: 226.48395pt x 67.37242pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 96.
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
->>>>>>> Nils0
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 96.
 
-<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-=======
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
->>>>>>> Nils0
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1
+) [1
 
-<<<<<<< HEAD
 {C:/Users/Tommy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/To
 mmy/Desktop/Uni/6. Semester/DV/DVP03/HawLogo.png>]
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.toc")
-=======
-{C:/Users/Nils/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./HawLogo.pn
-g>] (main.toc)
->>>>>>> Nils0
 \tf@toc=\write6
-\openout6 = `main.toc'.
-
 File: HawLogo.png Graphic file (type png)
  <use HawLogo.png>
 Package pdftex.def Info: HawLogo.png used on input line 144.
@@ -2122,20 +1286,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.143 		\newpage
+l.144 		\newpage
                  [1]
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Inhalt.tex")
 File: HawLogo.png Graphic file (type png)
-=======
-l.144 		\newpage
-                 [1]
-\openout2 = `Inhalt.aux'.
->>>>>>> Nils0
 
- (Inhalt.tex)
-File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
+<use HawLogo.png>
 Package pdftex.def Info: HawLogo.png used on input line 157.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
@@ -2149,60 +1305,39 @@ l.157 		\include{Inhalt}
                          [1
 
 ]
-<<<<<<< HEAD
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Attachement.tex"
-(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 22.
-
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/fir_2a.m"
-=======
-\openout2 = `Attachement.aux'.
-
- (Attachement.tex
-Overfull \hbox (13.07422pt too wide) in paragraph at lines 5--6
+Overfull \hbox (13.07422pt too wide) in paragraph at lines 4--5
 \OT1/cmr/m/n/12 Grenz-wer-te ein-zu-hal-ten muss zun[]achst die Fil-ter-ord-nun
 g mit dem M[]File Kai-ser[]Order[]01.m
  []
 
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.s
-ty"
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 24.
- (Code/fir_2a.m)
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.s
-ty"
+nput line 23.
+
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/fir_2a.m")
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
-y"
+(C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-) (Code/LP_coeff.h
->>>>>>> Nils0
+)
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/LP_coeff.h"
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1.
 )
-<Bilder/Attachment_A1_fir_2a_Amplitudengang.png, id=98, 421.575pt x 316.18124pt
+<Bilder/Attachment_A1_fir_2a_Amplitudengang.png, id=99, 421.575pt x 316.18124pt
 >
 File: Bilder/Attachment_A1_fir_2a_Amplitudengang.png Graphic file (type png)
  <use Bilder/Attachment_A1_fir_2a_Amplitudengang.png>
 Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Amplitudengang.png used on
- input line 32.
+ input line 31.
 (pdftex.def)             Requested size: 452.9679pt x 339.73383pt.
 File: HawLogo.png Graphic file (type png)
-<<<<<<< HEAD
-
-<use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 24.
-=======
  <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 36.
->>>>>>> Nils0
+Package pdftex.def Info: HawLogo.png used on input line 35.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2211,81 +1346,56 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 [2
 
 
-<<<<<<< HEAD
-] (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-) (C:\Users\Tommy\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/LP_coeff.h")
-<Bilder/Attachment_A1_fir_2a_Amplitudengang.png, id=131, 421.575pt x 316.18124p
-t>
-File: Bilder/Attachment_A1_fir_2a_Amplitudengang.png Graphic file (type png)
- <use Bilder/Attachment_A1_fir_2a_Amplitudengang.png>
-Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Amplitudengang.png used on
- input line 30.
-(pdftex.def)             Requested size: 362.37569pt x 271.78513pt.
-=======
 ]
-<Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.png, id=129, 866.48718pt x
+<Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.png, id=130, 866.48718pt x
  163.3603pt>
 File: Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.png Graphic file (typ
 e png)
  <use Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.png>
 Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.pn
-g used on input line 40.
+g used on input line 39.
 (pdftex.def)             Requested size: 452.9679pt x 85.399pt.
 
-<Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand.png, id=130, 856.70062pt x
+<Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand.png, id=131, 856.70062pt x
  151.3153pt>
 File: Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand.png Graphic file (typ
 e png)
  <use Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand.png>
 Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand.pn
-g used on input line 47.
+g used on input line 46.
 (pdftex.def)             Requested size: 452.9679pt x 80.00508pt.
->>>>>>> Nils0
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 52.
+Package pdftex.def Info: HawLogo.png used on input line 51.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-<<<<<<< HEAD
 [3 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A1_fir_2a
-_Amplitudengang.png (PNG copy)>]
-<Bilder/Attachment_A1_fir_2a_Timeplot.png, id=144, 421.575pt x 316.18124pt>
-=======
-[3 <./Bilder/Attachment_A1_fir_2a_Amplitudengang.png (PNG copy)> <./Bilder/Atta
-chment_A1_fir_2a_Amplitudengang_PassBand.png> <./Bilder/Attachment_A1_fir_2a_Am
-plitudengang_StopBand.png>]
-<Bilder/Attachment_A1_fir_2a_Timeplot.png, id=136, 421.575pt x 316.18124pt>
->>>>>>> Nils0
+_Amplitudengang.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP0
+3/Bilder/Attachment_A1_fir_2a_Amplitudengang_PassBand.png> <C:/Users/Tommy/Desk
+top/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBan
+d.png>]
+<Bilder/Attachment_A1_fir_2a_Timeplot.png, id=137, 421.575pt x 316.18124pt>
 File: Bilder/Attachment_A1_fir_2a_Timeplot.png Graphic file (type png)
 
 <use Bilder/Attachment_A1_fir_2a_Timeplot.png>
 Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Timeplot.png used on input
- line 56.
+ line 55.
 (pdftex.def)             Requested size: 362.37569pt x 271.78513pt.
 
-<<<<<<< HEAD
-<Bilder/Attachment_A1_fir_2a_Spektrum.png, id=145, 421.575pt x 316.18124pt>
-=======
-<Bilder/Attachment_A1_fir_2a_Spektrum.png, id=137, 421.575pt x 316.18124pt>
->>>>>>> Nils0
+<Bilder/Attachment_A1_fir_2a_Spektrum.png, id=138, 421.575pt x 316.18124pt>
 File: Bilder/Attachment_A1_fir_2a_Spektrum.png Graphic file (type png)
 
 <use Bilder/Attachment_A1_fir_2a_Spektrum.png>
 Package pdftex.def Info: Bilder/Attachment_A1_fir_2a_Spektrum.png used on input
- line 63.
+ line 62.
 (pdftex.def)             Requested size: 362.37569pt x 271.78513pt.
 File: HawLogo.png Graphic file (type png)
  <use HawLogo.png>
-<<<<<<< HEAD
-Package pdftex.def Info: HawLogo.png used on input line 52.
+Package pdftex.def Info: HawLogo.png used on input line 67.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2295,52 +1405,19 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 _Timeplot.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bild
 er/Attachment_A1_fir_2a_Spektrum.png (PNG copy)>]
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/fir_2b.m")
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/LP_coeff_firpm.h")
-File: HawLogo.png Graphic file (type png)
-
-<use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 60.
-=======
-Package pdftex.def Info: HawLogo.png used on input line 68.
->>>>>>> Nils0
-(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
-
-Overfull \vbox (21.32027pt too high) has occurred while \output is active []
-
-
-<<<<<<< HEAD
-[5]
-<./Bilder/Attachment_A2_fir_2b_Amplitudengang.png, id=182, 421.575pt x 312.4171
-9pt>
-File: ./Bilder/Attachment_A2_fir_2b_Amplitudengang.png Graphic file (type png)
- <use ./Bilder/Attachment_A2_fir_2b_Amplitudengang.png>
-Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Amplitudengang.png used 
-on input line 64.
-(pdftex.def)             Requested size: 317.07614pt x 234.97969pt.
-
-<./Bilder/Attachment_A2_fir_2b_Timeplot.png, id=183, 421.575pt x 316.18124pt>
-File: ./Bilder/Attachment_A2_fir_2b_Timeplot.png Graphic file (type png)
-
-<use ./Bilder/Attachment_A2_fir_2b_Timeplot.png>
-Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Timeplot.png used on inp
-ut line 69.
-(pdftex.def)             Requested size: 317.07614pt x 237.81078pt.
-=======
-[4 <./Bilder/Attachment_A1_fir_2a_Timeplot.png (PNG copy)> <./Bilder/Attachment
-_A1_fir_2a_Spektrum.png (PNG copy)>] (Code/fir_2b.m) (Code/LP_coeff_firpm_17K.h
-)
-<./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png, id=152, 1028.34187pt x 4
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/LP_coeff_firpm_17K.h")
+<./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png, id=153, 1028.34187pt x 4
 90.08093pt>
 File: ./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png Graphic file (type p
 ng)
  <use ./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png>
 Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png u
-sed on input line 90.
+sed on input line 83.
 (pdftex.def)             Requested size: 452.9679pt x 215.87558pt.
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 94.
+Package pdftex.def Info: HawLogo.png used on input line 87.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2354,7 +1431,7 @@ File: Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_17K.png Graphic file
 
 <use Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_17K.png>
 Package pdftex.def Info: Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_17
-K.png used on input line 98.
+K.png used on input line 91.
 (pdftex.def)             Requested size: 452.9679pt x 91.55518pt.
 
 <Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_17K.png, id=192, 847.66687
@@ -2364,28 +1441,29 @@ File: Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_17K.png Graphic file
 
 <use Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_17K.png>
 Package pdftex.def Info: Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_17
-K.png used on input line 105.
+K.png used on input line 98.
 (pdftex.def)             Requested size: 452.9679pt x 88.09799pt.
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 110.
+Package pdftex.def Info: HawLogo.png used on input line 103.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
->>>>>>> Nils0
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-[6 <./Bilder/Attachment_A2_fir_2b_Amplitudengang_17K.png (PNG copy)> <./Bilder/
-Attachment_A2_fir_2b_Amplitudengang_PassBand_17K.png> <./Bilder/Attachment_A2_f
-ir_2b_Amplitudengang_StopBand_17K.png>]
+[6 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b
+_Amplitudengang_17K.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/
+DVP03/Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_17K.png> <C:/Users/To
+mmy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b_Amplitudengang
+_StopBand_17K.png>]
 <./Bilder/Attachment_A2_fir_2b_Amplitudengang_19K.png, id=197, 1028.34187pt x 4
 90.08093pt>
 File: ./Bilder/Attachment_A2_fir_2b_Amplitudengang_19K.png Graphic file (type p
 ng)
  <use ./Bilder/Attachment_A2_fir_2b_Amplitudengang_19K.png>
 Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Amplitudengang_19K.png u
-sed on input line 115.
+sed on input line 108.
 (pdftex.def)             Requested size: 452.9679pt x 215.87558pt.
 
 <Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_19K.png, id=198, 849.1725p
@@ -2395,7 +1473,7 @@ File: Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_19K.png Graphic file
 
 <use Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_19K.png>
 Package pdftex.def Info: Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_19
-K.png used on input line 123.
+K.png used on input line 116.
 (pdftex.def)             Requested size: 452.9679pt x 89.14926pt.
 
 <Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_19K.png, id=199, 860.46469
@@ -2405,172 +1483,103 @@ File: Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_19K.png Graphic file
 
 <use Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_19K.png>
 Package pdftex.def Info: Bilder/Attachment_A2_fir_2b_Amplitudengang_StopBand_19
-K.png used on input line 130.
+K.png used on input line 123.
 (pdftex.def)             Requested size: 452.9679pt x 78.46754pt.
 
-(Code/LP_coeff_firpm_19K.h)
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/LP_coeff_firpm_19K.h")
 File: HawLogo.png Graphic file (type png)
-<<<<<<< HEAD
+
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 74.
-=======
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 137.
->>>>>>> Nils0
+Package pdftex.def Info: HawLogo.png used on input line 130.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-<<<<<<< HEAD
-[6 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b
-_Amplitudengang.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP0
-3/Bilder/Attachment_A2_fir_2b_Timeplot.png (PNG copy)>]
-<./Bilder/Attachment_A2_fir_2b_Spektrum.png, id=189, 421.575pt x 316.18124pt>
-=======
-[7 <./Bilder/Attachment_A2_fir_2b_Amplitudengang_19K.png (PNG copy)> <./Bilder/
-Attachment_A2_fir_2b_Amplitudengang_PassBand_19K.png> <./Bilder/Attachment_A2_f
-ir_2b_Amplitudengang_StopBand_19K.png>]
+[7 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b
+_Amplitudengang_19K.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/
+DVP03/Bilder/Attachment_A2_fir_2b_Amplitudengang_PassBand_19K.png> <C:/Users/To
+mmy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b_Amplitudengang
+_StopBand_19K.png>]
 <./Bilder/Attachment_A2_fir_2b_Timeplot.png, id=211, 421.575pt x 316.18124pt>
 File: ./Bilder/Attachment_A2_fir_2b_Timeplot.png Graphic file (type png)
 
 <use ./Bilder/Attachment_A2_fir_2b_Timeplot.png>
 Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Timeplot.png used on inp
-ut line 142.
+ut line 135.
 (pdftex.def)             Requested size: 385.02547pt x 288.7723pt.
 
 <./Bilder/Attachment_A2_fir_2b_Spektrum.png, id=212, 421.575pt x 316.18124pt>
->>>>>>> Nils0
 File: ./Bilder/Attachment_A2_fir_2b_Spektrum.png Graphic file (type png)
 
 <use ./Bilder/Attachment_A2_fir_2b_Spektrum.png>
 Package pdftex.def Info: ./Bilder/Attachment_A2_fir_2b_Spektrum.png used on inp
-<<<<<<< HEAD
-ut line 78.
-(pdftex.def)             Requested size: 317.07614pt x 237.81078pt.
-File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 84.
-=======
-ut line 149.
+ut line 142.
 (pdftex.def)             Requested size: 385.02547pt x 288.7723pt.
 File: HawLogo.png Graphic file (type png)
  <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 155.
->>>>>>> Nils0
+Package pdftex.def Info: HawLogo.png used on input line 148.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-<<<<<<< HEAD
-[7
-
-
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b_S
-pektrum.png (PNG copy)>]
+[8 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_A2_fir_2b
+_Timeplot.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bild
+er/Attachment_A2_fir_2b_Spektrum.png (PNG copy)>]
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/fir_3.m")
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Code/BP_coeff.h")
-<./Bilder/Attachment_B_fir_3_Amplitudengang.png, id=195, 421.575pt x 316.18124p
-t>
-File: ./Bilder/Attachment_B_fir_3_Amplitudengang.png Graphic file (type png)
- <use ./Bilder/Attachment_B_fir_3_Amplitudengang.png>
-Package pdftex.def Info: ./Bilder/Attachment_B_fir_3_Amplitudengang.png used on
- input line 94.
-(pdftex.def)             Requested size: 317.07614pt x 237.81078pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Bilder/Attachment_B_fir_3_Timeplot.png, id=196, 421.575pt x 316.18124pt>
-=======
-[8 <./Bilder/Attachment_A2_fir_2b_Timeplot.png (PNG copy)> <./Bilder/Attachment
-_A2_fir_2b_Spektrum.png (PNG copy)>] (Code/fir_3.m) (Code/BP_coeff.h)
 <./Bilder/Attachment_B_fir_3_Amplitudengang.png, id=219, 1028.34187pt x 490.080
 93pt>
 File: ./Bilder/Attachment_B_fir_3_Amplitudengang.png Graphic file (type png)
  <use ./Bilder/Attachment_B_fir_3_Amplitudengang.png>
 Package pdftex.def Info: ./Bilder/Attachment_B_fir_3_Amplitudengang.png used on
- input line 164.
+ input line 159.
 (pdftex.def)             Requested size: 317.07614pt x 151.10841pt.
 
 <./Bilder/Attachment_B_fir_3_Timeplot.png, id=220, 421.575pt x 316.18124pt>
->>>>>>> Nils0
 File: ./Bilder/Attachment_B_fir_3_Timeplot.png Graphic file (type png)
 
 <use ./Bilder/Attachment_B_fir_3_Timeplot.png>
 Package pdftex.def Info: ./Bilder/Attachment_B_fir_3_Timeplot.png used on input
-<<<<<<< HEAD
- line 101.
-=======
- line 171.
->>>>>>> Nils0
+ line 166.
 (pdftex.def)             Requested size: 317.07614pt x 237.81078pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<<<<<<< HEAD
 File: HawLogo.png Graphic file (type png)
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 106.
+Package pdftex.def Info: HawLogo.png used on input line 171.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-[8
+[9
 
-]
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_B_fir_3_Amp
+litudengang.png (PNG copy)>]
 File: HawLogo.png Graphic file (type png)
  <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 106.
+Package pdftex.def Info: HawLogo.png used on input line 171.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-[9 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_B_fir_3_A
-mplitudengang.png (PNG copy)> <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/
-Bilder/Attachment_B_fir_3_Timeplot.png (PNG copy)>]
-<./Bilder/Attachment_B_fir_3_Spektrum.png, id=235, 421.575pt x 316.18124pt>
-=======
-
-<./Bilder/Attachment_B_fir_3_Spektrum.png, id=221, 1028.34187pt x 490.08093pt>
->>>>>>> Nils0
+[10 <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_B_fir_3_
+Timeplot.png (PNG copy)>]
+<./Bilder/Attachment_B_fir_3_Spektrum.png, id=261, 1028.34187pt x 490.08093pt>
 File: ./Bilder/Attachment_B_fir_3_Spektrum.png Graphic file (type png)
 
 <use ./Bilder/Attachment_B_fir_3_Spektrum.png>
 Package pdftex.def Info: ./Bilder/Attachment_B_fir_3_Spektrum.png used on input
-<<<<<<< HEAD
- line 110.
-(pdftex.def)             Requested size: 317.07614pt x 237.81078pt.
-File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 115.
-(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
-=======
- line 179.
+ line 175.
 (pdftex.def)             Requested size: 317.07614pt x 151.10841pt.
->>>>>>> Nils0
-
-Overfull \vbox (21.32027pt too high) has occurred while \output is active []
-
-
-[10
-
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_B_fir_3_Spe
-ktrum.png (PNG copy)>]
-<Bilder/Attachment_C1_DSK_Frequenzgang.png, id=241, 963.6pt x 756.57657pt>
-File: Bilder/Attachment_C1_DSK_Frequenzgang.png Graphic file (type png)
-
-<use Bilder/Attachment_C1_DSK_Frequenzgang.png>
-Package pdftex.def Info: Bilder/Attachment_C1_DSK_Frequenzgang.png used on inpu
-t line 122.
-(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
 File: HawLogo.png Graphic file (type png)
  <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 129.
+Package pdftex.def Info: HawLogo.png used on input line 180.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2578,9 +1587,28 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 [11
 
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_B_fir_3_Spe
+ktrum.png (PNG copy)>]
+<Bilder/Attachment_C1_DSK_Frequenzgang.png, id=268, 963.6pt x 756.57657pt>
+File: Bilder/Attachment_C1_DSK_Frequenzgang.png Graphic file (type png)
+
+<use Bilder/Attachment_C1_DSK_Frequenzgang.png>
+Package pdftex.def Info: Bilder/Attachment_C1_DSK_Frequenzgang.png used on inpu
+t line 187.
+(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
+File: HawLogo.png Graphic file (type png)
+ <use HawLogo.png>
+Package pdftex.def Info: HawLogo.png used on input line 194.
+(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
+
+Overfull \vbox (21.32027pt too high) has occurred while \output is active []
+
+
+[12
+
  <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_C1_DSK_Freq
 uenzgang.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
@@ -2588,78 +1616,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--134
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
-<<<<<<< HEAD
-Package pdftex.def Info: HawLogo.png used on input line 137.
-=======
-Package pdftex.def Info: HawLogo.png used on input line 185.
->>>>>>> Nils0
+Package pdftex.def Info: HawLogo.png used on input line 202.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
-
-<<<<<<< HEAD
-[12
-
-] <Bilder/Attachment_C2_TP_Fg.png, id=280, 963.6pt x 756.57657pt>
-File: Bilder/Attachment_C2_TP_Fg.png Graphic file (type png)
-=======
-[9 <./Bilder/Attachment_B_fir_3_Amplitudengang.png (PNG copy)>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 195.
->>>>>>> Nils0
-
-<use Bilder/Attachment_C2_TP_Fg.png>
-Package pdftex.def Info: Bilder/Attachment_C2_TP_Fg.png used on input line 141.
-
-<<<<<<< HEAD
-(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
-File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 149.
-(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
-=======
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 195.
->>>>>>> Nils0
-
-Overfull \vbox (21.32027pt too high) has occurred while \output is active []
-
-<<<<<<< HEAD
-=======
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 195.
->>>>>>> Nils0
 
 [13
 
-<<<<<<< HEAD
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_C2_TP_Fg.pn
-g>] <Bilder/Attachment_D_Profiling.png, id=288, 589.4522pt x 522.45187pt>
-File: Bilder/Attachment_D_Profiling.png Graphic file (type png)
-=======
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 195.
->>>>>>> Nils0
+] <Bilder/Attachment_C2_TP_Fg.png, id=306, 963.6pt x 756.57657pt>
+File: Bilder/Attachment_C2_TP_Fg.png Graphic file (type png)
 
-<use Bilder/Attachment_D_Profiling.png>
-Package pdftex.def Info: Bilder/Attachment_D_Profiling.png used on input line 1
-56.
-(pdftex.def)             Requested size: 407.66833pt x 361.3372pt.
+<use Bilder/Attachment_C2_TP_Fg.png>
+Package pdftex.def Info: Bilder/Attachment_C2_TP_Fg.png used on input line 206.
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-=======
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 195.
->>>>>>> Nils0
-
- []
-
+(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
 File: HawLogo.png Graphic file (type png)
-<use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 169.
+ <use HawLogo.png>
+Package pdftex.def Info: HawLogo.png used on input line 214.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2667,66 +1641,63 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 [14
 
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_D_Profiling
-.png>]
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_C2_TP_Fg.pn
+g>] <Bilder/Attachment_D_Profiling.png, id=314, 589.4522pt x 522.45187pt>
+File: Bilder/Attachment_D_Profiling.png Graphic file (type png)
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-<<<<<<< HEAD
-(hyperref)                removing `math shift' on input line 171.
+<use Bilder/Attachment_D_Profiling.png>
+Package pdftex.def Info: Bilder/Attachment_D_Profiling.png used on input line 2
+21.
+(pdftex.def)             Requested size: 407.66833pt x 361.3372pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 171.
-=======
-(hyperref)                removing `math shift' on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 199.
->>>>>>> Nils0
+ []
 
 File: HawLogo.png Graphic file (type png)
-<<<<<<< HEAD
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 174.
-=======
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 158.
->>>>>>> Nils0
+Package pdftex.def Info: HawLogo.png used on input line 234.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-<<<<<<< HEAD
 [15
 
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_D_Profiling
+.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 236.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 236.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 236.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 236.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 236.
+
+File: HawLogo.png Graphic file (type png)
+<use HawLogo.png>
+Package pdftex.def Info: HawLogo.png used on input line 239.
+(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
+
+Overfull \vbox (21.32027pt too high) has occurred while \output is active []
+
+
+[16
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
@@ -2734,37 +1705,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--178
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 180.
-=======
-[10 <./Bilder/Attachment_B_fir_3_Timeplot.png (PNG copy)> <./Bilder/Attachment_
-B_fir_3_Spektrum.png (PNG copy)>]
-File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 158.
->>>>>>> Nils0
-(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
-
-Overfull \vbox (21.32027pt too high) has occurred while \output is active []
-
-
-<<<<<<< HEAD
-[16
-
-] <Bilder/Attachment_F_HPTP.png, id=339, 963.6pt x 756.57657pt>
-File: Bilder/Attachment_F_HPTP.png Graphic file (type png)
-
-<use Bilder/Attachment_F_HPTP.png>
-Package pdftex.def Info: Bilder/Attachment_F_HPTP.png used on input line 186.
-(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
-
-Overfull \hbox (12.84897pt too wide) in paragraph at lines 191--195
-\OT1/cmr/m/n/12 spie-gel-te Ver-lauf des Tief-pas-ses. Bei-de Sperr-be-rei-che 
-zei-gen die glei-che Ripple-Charakteristik
- []
-
-File: HawLogo.png Graphic file (type png)
-<use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 196.
+Package pdftex.def Info: HawLogo.png used on input line 245.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2772,43 +1713,21 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 [17
 
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_F_HPTP.png>
-]
+] <Bilder/Attachment_F_HPTP.png, id=366, 963.6pt x 756.57657pt>
+File: Bilder/Attachment_F_HPTP.png Graphic file (type png)
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 198.
+<use Bilder/Attachment_F_HPTP.png>
+Package pdftex.def Info: Bilder/Attachment_F_HPTP.png used on input line 251.
+(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 198.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
-
+Overfull \hbox (12.84897pt too wide) in paragraph at lines 256--260
+\OT1/cmr/m/n/12 spie-gel-te Ver-lauf des Tief-pas-ses. Bei-de Sperr-be-rei-che 
+zei-gen die glei-che Ripple-Charakteristik
  []
 
-<Bilder/letzteAufgabe.png, id=347, 772.8875pt x 481.8pt>
-File: Bilder/letzteAufgabe.png Graphic file (type png)
-
-<use Bilder/letzteAufgabe.png>
-Package pdftex.def Info: Bilder/letzteAufgabe.png used on input line 204.
-(pdftex.def)             Requested size: 317.07614pt x 197.65689pt.
-)
 File: HawLogo.png Graphic file (type png)
- <use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 157.
+<use HawLogo.png>
+Package pdftex.def Info: HawLogo.png used on input line 261.
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
@@ -2816,78 +1735,104 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 [18
 
- <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/letzteAufgabe.png>] ("
-C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.tex"
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_F_HPTP.png>
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 263.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 263.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 263.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 263.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 263.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
+
+ []
+
+<Bilder/Attachment_G_1-TP.png, id=373, 963.6pt x 756.57657pt>
+File: Bilder/Attachment_G_1-TP.png Graphic file (type png)
+
+<use Bilder/Attachment_G_1-TP.png>
+Package pdftex.def Info: Bilder/Attachment_G_1-TP.png used on input line 269.
+(pdftex.def)             Requested size: 452.9679pt x 355.64876pt.
+)
+File: HawLogo.png Graphic file (type png)
+ <use HawLogo.png>
+Package pdftex.def Info: HawLogo.png used on input line 158.
+(pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
+
+Overfull \vbox (21.32027pt too high) has occurred while \output is active []
+
+
+[19
+
+ <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_G_1-TP.png>
+] ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.tex"
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-=======
-[11]
-\openout2 = `Fazit.aux'.
-
- (Fazit.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
-
-("C:\Users\Nils\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
->>>>>>> Nils0
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
 
-Overfull \hbox (22.73404pt too wide) in paragraph at lines 8--9
+Overfull \hbox (22.73404pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/m/n/12 16-Filterordnung Sperrd[]amp-fung zu ge-ring, Theo-rie Mat-la
 b mit 18 Ord-nung Sperrd[]amp-
  []
 
 )
 File: HawLogo.png Graphic file (type png)
-<<<<<<< HEAD
-
-<use HawLogo.png>
-Package pdftex.def Info: HawLogo.png used on input line 158.
-=======
  <use HawLogo.png>
 Package pdftex.def Info: HawLogo.png used on input line 159.
->>>>>>> Nils0
 (pdftex.def)             Requested size: 97.38643pt x 28.97023pt.
 
 Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 
 
-<<<<<<< HEAD
-[19
+[20
 
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
- ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.aux"
+] ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Anhang.tex")
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.aux"
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Inhalt.aux")
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Attachement.aux")
-("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.aux")
+("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Anhang.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: FEBB9AA64D6D3F4A38BB860427DD2D8F;1111.
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 959D7ACD6B77FA1281AFBECDE50ACFB9;1112
-(rerunfilecheck)             After:  FEBB9AA64D6D3F4A38BB860427DD2D8F;1111.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 30869 strings out of 493921
- 705826 string characters out of 3144876
- 1015215 words of memory out of 3000000
- 33395 multiletter control sequences out of 15000+200000
+ 30970 strings out of 493921
+ 709517 string characters out of 3144876
+ 1023568 words of memory out of 3000000
+ 33470 multiletter control sequences out of 15000+200000
  15761 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 62i,14n,96p,1113b,1767s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,14n,96p,1205b,1767s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C
@@ -2903,63 +1848,9 @@ MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on main.pdf (21 pages, 631430 bytes).
+Output written on main.pdf (22 pages, 755106 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
- 196 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-[12
-
-
-]
-\openout2 = `Anhang.aux'.
-
- (Anhang.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
- (main.aux (Inhalt.aux) (Attachement.aux) (Fazit.aux)
-(Anhang.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BBB8F45FCB897D35B0037A9F48845B57;1082.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
- ) 
-Here is how much of TeX's memory you used:
- 30962 strings out of 493634
- 709917 string characters out of 3135647
- 1032476 words of memory out of 3000000
- 33638 multiletter control sequences out of 15000+200000
- 15761 words of font info for 61 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 62i,14n,96p,1207b,1765s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmcsc10.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/Nils/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nils/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nils/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
-Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr17.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Nils/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Nils/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nils/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/
-Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
-t10.pfb><C:/Users/Nils/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/latxfont/lcircle1.pfb>
-Output written on main.pdf (14 pages, 587906 bytes).
-PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 125 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> Nils0
+ 473 PDF objects out of 1000 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 

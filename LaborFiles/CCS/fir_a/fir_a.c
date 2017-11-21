@@ -35,7 +35,6 @@ extern MCBSP_Handle DSK6713_AIC23_DATAHANDLE;
 
 static Uint32 CODECEventId;
 Uint32 FIR_accu32_TP;
-Uint32 FIR_accu32_HP;
 Uint32 fs=DSK6713_AIC23_FREQ_8KHZ;     //for sampling frequency
 short int i, delays[N], input_samples;
 //Uint32 fs;            			     //for sampling frequency

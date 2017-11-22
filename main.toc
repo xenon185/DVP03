@@ -8,6 +8,6 @@
 \contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudenganges vom FIR-Filter Matlab - DSK Board}{15}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{16}{subsection.2.7}
 \contentsline {subsection}{\numberline {2.8}E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}{17}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{18}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{20}{subsection.2.10}
-\contentsline {section}{\numberline {3}Fazit}{21}{section.3}
+\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{19}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{21}{subsection.2.10}
+\contentsline {section}{\numberline {3}Fazit}{22}{section.3}

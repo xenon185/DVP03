@@ -14,7 +14,7 @@ t=[0:Ts:Ts*(Ns-1)]; %Make time array that contains Ns elements
 f1=500; f2=1800; f3=2000; f4=3200;
 x1=sin(2*pi*f1*t); x2=sin(2*pi*f2*t); x3=sin(2*pi*f3*t); x4=sin(2*pi*f4*t);
 x=x1+x2+x3+x4; %Calculate samples for a 4-tone input signal
-N=23; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
+N=19; %FIR1 requires filter order (N) to be EVEN when gain = 1 at Fs/2.
 % Normierte Eckfrequenz im Durchlassbereich auf Fs/2. 1800 Hz/4000Hz = 9/20
 % = 0.45
 % Normierte Eckfrequenz im Sperrbereich auf Fs/2. 2600 Hz/4000 Hz = 13/20 = 0.65

@@ -6,7 +6,7 @@ clc;
 
 Fs=8e3; %Specify Sampling Frequency
 Ts=1/Fs; %Sampling period.
-Ns=512; %No of time samples to be plotted.
+Ns=1024; %No of time samples to be plotted.
 F=[500 800 2400 2700]; %Cutoff frequenzcy
 A=[0 1 0]; % Desired amplitude
 RP = 0.4; % Passband ripple

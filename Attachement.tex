@@ -1,7 +1,8 @@
 \section{Attachements}
 \subsection{A1 Tiefpassentwurf mit fir()}
 \label{cap:A1}
-Mit der Matlab Funktion fir() ist ein FIR-Tiefpassfilter zu entwerfen. Als Defaulteinstellung wird als Fensterfunktion das Hamming-Fenster verwendet. Um die geforderten Grenzwerte einzuhalten muss zunächst die Filterordnung mit dem M\_File Kaiser\_Order\_01.m bestimmt werden. Die Koeffizienten werden mit dem M\_File fir\_1.m gemäß Listing 2 bestimmt. Außerdem wird der Amplitudengang (x=normiert auf Fs/2), das Zeitsignal und der Frequenzgang vor sowie nach dem Filter in einem Diagramm ausgegeben. In den Abbildungen \ref{fig:Attachment_A1_fir_2a_Amplitudengang_PassBand} und \ref{fig:Attachment_A1_fir_2a_Amplitudengang_StopBand} kann gut erkannt werden, das die ripple im Pass- und Stopband eingehalten werden. Die normierten Filterkoeffizienten (normiert auf $\pm$ 1) müssen für die spätere Implementierung in den DSP auf 16-Bit Integer werte angepasst werden. Dazu werden die Koeffizienten mit einem Korrekturfaktor versehen. In Abbildung \ref{lst:fir_2a_matlab} sind die Änderungen von Listing 2 aufgeführt.\\Korrekturwert maximal 1 $\approx$ 32767 $\rightarrow$ 1-Bit Vorzeichen + 15-Bit Wertebereich. 
+Mit der Matlab Funktion fir() ist ein FIR-Tiefpassfilter zu entwerfen. Als Defaulteinstellung wird als Fensterfunktion das Hamming-Fenster verwendet. Um die geforderten Grenzwerte einzuhalten muss zunächst die Filterordnung mit dem M\_File Kaiser\_Order\_01.m bestimmt werden. Die Ordnung des Filters beträgt damit nach Abschätzung mit der Kaiser-Formel N
+= 23. Die Koeffizienten werden mit dem M\_File fir\_1.m gemäß Listing 2 bestimmt. Außerdem wird der Amplitudengang (x=normiert auf Fs/2), das Zeitsignal und der Frequenzgang vor sowie nach dem Filter in einem Diagramm ausgegeben. In den Abbildungen \ref{fig:Attachment_A1_fir_2a_Amplitudengang_PassBand} und \ref{fig:Attachment_A1_fir_2a_Amplitudengang_StopBand} kann gut erkannt werden, das die ripple im Pass- und Stopband eingehalten werden. Die normierten Filterkoeffizienten (normiert auf $\pm$ 1) müssen für die spätere Implementierung in den DSP auf 16-Bit Integer werte angepasst werden. Dazu werden die Koeffizienten mit einem Korrekturfaktor versehen. In Abbildung \ref{lst:fir_2a_matlab} sind die Änderungen von Listing 2 aufgeführt.\\Korrekturwert maximal 1 $\approx$ 32767 $\rightarrow$ 1-Bit Vorzeichen + 15-Bit Wertebereich. 
 
 \begin{equation}
 b_{k}(x) = b(x) * 2^{15}-1
@@ -10,7 +11,7 @@ b_{k}(x) = b(x) * 2^{15}-1
 \begin{table}[h]
 	\centering
 	\begin{tabular}{c | c}
-		Parameter	& Wert	\\
+		Parameter	& Werte	\\
 		\hline
 		Eckfrequenz Durchlassbereich			& $1800~Hz$	\\
 		Eckfrequenz Sperrbereich				& $2600~Hz$	\\
@@ -41,6 +42,8 @@ b_{k}(x) = b(x) * 2^{15}-1
 \label{fig:Attachment_A1_fir_2a_Amplitudengang_PassBand}
 \end{figure}
 
+
+
 \begin{figure}[H]
 \centering
 \includegraphics[width=1.0\linewidth]{Bilder/Attachment_A1_fir_2a_Amplitudengang_StopBand}
@@ -52,17 +55,23 @@ b_{k}(x) = b(x) * 2^{15}-1
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Bilder/Attachment_A1_fir_2a_Timeplot}
+	\includegraphics[width=0.75\linewidth]{Bilder/Attachment_A1_fir_2a_Timeplot}
 	\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Tiefpass}
 	\label{fig:Attachment_A1_fir_2a_Timeplot}
+	\vspace{-10pt}
 \end{figure}
+
+\noindent Im Zeitsignal zeigt sich ebenfalls das Tiefpassverhalten. Es werden hohe Frequenzanteile am Filterausgang ausgefiltert wie in Abbildung \ref{fig:Attachment_A1_fir_2a_Amplitudengang_PassBand} zu erkennen ist.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Bilder/Attachment_A1_fir_2a_Spektrum}
+	\includegraphics[width=0.75\linewidth]{Bilder/Attachment_A1_fir_2a_Spektrum}
 	\caption{Eingangs- gefiltertes Ausgangs Frequenzspektrum}
 	\label{fig:Attachment_A1_fir_2a_Spektrum}
+	\vspace{-10pt}
 \end{figure}
+
+\noindent Das Frequenzspektrum ist in Abbildung \ref{fig:Attachment_A1_fir_2a_Amplitudengang_PassBand} zu erkennen. Es zeigt die Sinussignale bei verschiedenen Frequenzen. Zu erkennen ist das die Signalanteile ab der Durchlassgrenzfrequenz (1800 Hz) schon stark gedämpft werden.
 
 \newpage
 \subsection{A2 Tiefpassentwurf mit firpm()}
@@ -137,6 +146,8 @@ Des weiteren ist zu beobachten, dass die Eckfrequenz des Passbereiches sich auf 
 \label{fig:Attachment_A2_fir_2b_Timeplot}
 \end{figure}
 
+\noindent Im Zeitsignal welches Abbildung \ref{fig:Attachment_A2_fir_2b_Timeplot} darstellt sind wie erwartet die hohe Frequenzanteile im Ausgangssignal ausgefiltert.
+
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.85\linewidth]{./Bilder/Attachment_A2_fir_2b_Spektrum}
@@ -144,47 +155,80 @@ Des weiteren ist zu beobachten, dass die Eckfrequenz des Passbereiches sich auf 
 \label{fig:Attachment_A2_fir_2b_Spektrum}
 \end{figure}
 
+\noindent Das Frequenzspektrum zeigt das die Signalanteile die an der Konfigurierten-Eckfrequenz (1800 Hz) des Durchlassbereiches liegen nicht mehr so stark gedämpft werden. Was durch die Erhöhung der Eckfrequenz auf $\approx 2.15 kHz$ verursacht wird.
+
+
+\noindent Im Vergleich der Matlab Funktionen ist zu erkennen das mit firpm die Filtercharakteristik besser angenähert werden kann. Es wird eine geringer Filterordnung benötigt und bei Gleichen Sperrbereich ist ein größerer Durchlassbereich mit geringerer Dämpfung möglich.
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{c | c | c}
+						& fir1	&	firpm \\
+		\hline	
+		Filterordnung	& 23		& 19	\\
+		Eckfrequenz Durchlassbereich	& 1.8 kHz	& 2.15 kHz\\ 
+		Ripple im Durchlassbereich		& $\approx 0 db$	& $\approx 0.3 db$
+	\end{tabular}
+\end{table}
 
 \clearpage
 
 \subsection{B Bandpass-Filterentwurf}
+\noindent Für den Entwurf eines Bandpassfilters wird das selbe vorgehen wie zur Realisierung eines Tiefpassfilter durchgeführt. In Abbildung \ref{fig:Attachment_B_fir_3_Amplitudengang} sind die Eckfrequenzen des Sperr- und Durchlassbereich markiert. Wie auch schon zuvor beim Tiefpassfilter sind die Eckfrequenzen der Durchlassbereiches nach außen Verschoben, was zu einem Breiteren Durchlassbereich führt. Die Eckfrequenzen des Sperrbereichs sind an den definierten Punkten.
 
+\begin{table}[H]
+	\centering
+	\begin{tabular}{c | c}
+	Parameter	& Werte	\\
+	\hline
+	Abtastfrequenz		& 8 kHz\\
+	Passband			& 0,8 kHz - 2,4 kHz\\
+	Transitionband I	& 0,5 kHz - 0,8 kHz\\
+	Transitionband II	& 2,4 kHz - 2,7 kHz\\
+	Minimale Sperrdämpfung	& 40 db\\
+	Maximaler Ripple im Durchlassbereich	& 0,4 db\\
+	
+	\end{tabular}
+\end{table}
 
-\lstinputlisting[style=matlab, caption={fir\_3.m Matlab-File Auszug - Bandpassfilter Ordnung 45}, label={lst:fir_3_matlab}]{Code/fir_3.m}
+\lstinputlisting[style=matlab, caption={fir\_3.m Matlab-File Auszug - Bandpassfilter Ordnung 51}, label={lst:fir_3_matlab}]{Code/fir_3.m}
 
-\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 45}, label={lst:fir_3_koeff}]{Code/BP_coeff.h}
+\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Ordnung 51}, label={lst:fir_3_koeff}]{Code/BP_coeff.h}
 
-\begin{figure}[h]
+\noindent In Abbildung \ref{fig:Attachment_B_fir_3_Amplitudengang} ist der charakteristische Frequenzgang dargestellt.
+
+\begin{figure}[H]
 \centering
-\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Amplitudengang}
+\includegraphics[width=0.9\linewidth]{./Bilder/Attachment_B_fir_3_Amplitudengang}
 \caption{Amplituden und Phasengang - FIR-Filter Bandpass}
 \label{fig:Attachment_B_fir_3_Amplitudengang}
 \end{figure}
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Timeplot}
-\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Bandpass}
-\label{fig:Attachment_B_fir_3_Timeplot}
-\end{figure}
+\noindent Durch den Bandpassfilter werden die Frequenzanteile im Durchlassbereich nahezu ungedämpft übertragen und die Signalanteile an den beiden Seitensperrbereichen ausgefiltert.
 
-\clearpage
-
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[width=0.7\linewidth]{./Bilder/Attachment_B_fir_3_Spektrum}
+\includegraphics[width=1.0\linewidth]{./Bilder/Attachment_B_fir_3_Spektrum}
 \caption{Eingangs- gefiltertes Ausgangs Frequenzspektrum}
 \label{fig:Attachment_B_fir_3_Spektrum}
 \end{figure}
 
-\clearpage
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\linewidth]{./Bilder/Attachment_B_fir_3_Timeplot}
+\caption{Eingangs- und gefiltertes Ausgangszeitsignal  - FIR-Filter Bandpass}
+\label{fig:Attachment_B_fir_3_Timeplot}
+\end{figure}
+
+\newpage
 
 \subsection{C1 Analoge Übertragungscharakteristik des DSK Boards}
 \noindent Zu Beginn dieses Laborversuchs wurde ein Projekt zu Eingabe sowie anschließenden Ausgabe dieser eingelesenen Werte realisiert, um den Frequenzgang des DSK-Boards zu bestimmen. Im UVP Analyzer wurde ein Messung mit Frequenzsweep bis 8kHz durchgeführt.
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=1\linewidth]{Bilder/Attachment_C1_DSK_Frequenzgang}
+	\includegraphics[width=1.0\linewidth]{Bilder/Attachment_C1_DSK_Frequenzgang}
 	\caption{Frequenzgang des DSK-Boards}
 	\label{fig:Attachment_C1_DSK_Frequenzgang}
 \end{figure}
@@ -235,6 +279,28 @@ t_{ISR}  &= 1359 \cdot 4.5ns = 6.04\mu s \\
 
 \subsection{E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}
 \noindent
+Aus dem Tiefpassfilter soll mittels Frequenztransformation ein Hochpass implementiert werden. Die Grundidee ist in Abbildung 
+\ref{fig:tiefpass_hochpass} schematisch dargestellt.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{./Bilder/tiefpass_hochpass}
+\caption{Spektrum Tiefpass und Hochpass}
+\label{fig:tiefpass_hochpass}
+\end{figure}
+
+\noindent Vergleicht man das Spektrum der beiden Filter so ist zu erkennen das der Hochpass nur eine Verschiebung um $\frac{F_{S}}{2} = \pi$ des Tiefpassfilter darstellt und umgekehrt. Mathematisch lässt sich das mit dem Verschiebungssatz beschreiben: $H_{HP}(\omega) = H_{TP}(\omega-\pi)$
+
+\begin{equation}
+H_{TP}(e^{j\omega})= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j\omega k} \rightarrow H_{HP} = H_{TP}(\omega-\pi)= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j(\omega-\pi) k} ....
+\end{equation}
+
+\noindent Im Z-Bereich ergeben sich folgende Zusammenhänge.
+
+\begin{equation}
+H_{TP}(z)= \sum_{n=0}^{N-1} b_{n} z^{-n} \rightarrow H_{HP} = H_{TP}(-z)= \sum_{n=0}^{N-1} b_{n} (-z)^{-n} = \sum_{n=0}^{N-1} b_{n} (-1)^n(z)^{-n}
+\end{equation}
+Daraus lässt sich erkennen das einen Transformation zwischen  Hoch- und Tiefpass lediglich über das Vorzeichen der ungeraden Koeffizienten-Indizes herzuleiten ist.
 
 \clearpage
 \subsection{F Weichenfilter Amplitudengang Hoch- und Tiefpass}

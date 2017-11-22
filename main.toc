@@ -2,24 +2,12 @@
 \contentsline {section}{\numberline {2}Attachements}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}A1 Tiefpassentwurf mit fir()}{2}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}A2 Tiefpassentwurf mit firpm()}{5}{subsection.2.2}
-<<<<<<< Updated upstream
 \contentsline {subsection}{\numberline {2.3}B Bandpass-Filterentwurf}{10}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}C1 Analoge \IeC {\"U}bertragungscharakteristik des DSK Boards}{13}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}{14}{subsection.2.5}
 \contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudenganges vom FIR-Filter Matlab - DSK Board}{15}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{16}{subsection.2.7}
 \contentsline {subsection}{\numberline {2.8}E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}{17}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{18}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{20}{subsection.2.10}
-\contentsline {section}{\numberline {3}Fazit}{21}{section.3}
-=======
-\contentsline {subsection}{\numberline {2.3}B Bandpass-Filterentwurf}{9}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}C1 Analoge \IeC {\"U}bertragungscharakteristik des DSK Boards}{12}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}C2 Echtzeit-Festkomma-Impementierung des FIR-Filters}{13}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}C3 Vergleich des Amplitudenganges vom FIR-Filter Matlab - DSK Board}{14}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}D Profiling FIR-ISR}{15}{subsection.2.7}
-\contentsline {subsection}{\numberline {2.8}E Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (Substitution: z = -z)}{16}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{17}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{19}{subsection.2.10}
-\contentsline {section}{\numberline {3}Fazit}{20}{section.3}
->>>>>>> Stashed changes
+\contentsline {subsection}{\numberline {2.9}F Weichenfilter Amplitudengang Hoch- und Tiefpass}{19}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}G Tiefpasstransformation mit $h_{TP} \rightarrow h_{HP}$ (\IeC {\"A}nderung des mittleren Koeffizienten)}{21}{subsection.2.10}
+\contentsline {section}{\numberline {3}Fazit}{22}{section.3}

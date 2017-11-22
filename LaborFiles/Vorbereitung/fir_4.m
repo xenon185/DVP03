@@ -7,11 +7,11 @@ clc;
 Fs=8e3; %Specify Sampling Frequency
 Ts=1/Fs; %Sampling period.
 Ns=512; %No of time samples to be plotted.
-F=[1800 2600]; %Cutoff frequenzcy
-A=[1 0]; % Desired amplitude
+F=[1400 2200]; %Cutoff frequenzcy
+A=[0 1]; % Desired amplitude
 RP = 0.5; % Passband ripple
 RS = 40; % Stopband ripple
-DEV = [(10^(RP/20)-1)/(10^(RP/20)+1)  10^(-RS/20)];
+DEV = [  10^(-RS/20) (10^(RP/20)-1)/(10^(RP/20)+1)];
 
 t=[0:Ts:Ts*(Ns-1)]; %Make time array that contains Ns elements
 %t = [0, Ts, 2Ts, 3Ts,..., (Ns-1)Ts]
@@ -33,7 +33,7 @@ correction = 32767;
 %B_correction =cast((B*correction),'uint16') %cast B to 16 bit short Int
 B_correction = floor(B*correction);
 %create header file fir_coef.h (FIR filter coefficients)
-filnam = fopen('LP_coeff_firpm.h', 'w'); % generate include-file
+filnam = fopen('HP_coeff_firpm.h', 'w'); % generate include-file
 fprintf(filnam,'#define N %d\n', N+1);
 fprintf(filnam,'short h[N]={\n');
 j = 0;
@@ -48,12 +48,11 @@ end
 fprintf(filnam,'};\n');
 fclose(filnam);
 A=1; %FIR filters have no poles, only zeros.
-figure;
 grid on;
 freqz(B,A); %Plot frequency response - both amp and phase response.
 %pause; %User must hit any key on PC keyboard to continue.
 figure; %Create a new figure window, so previous one isn't lost.
-subplot(2,1,1); %Two subplots will go on this figure window.
+%subplot(2,1,1); %Two subplots will go on this figure window.
 Npts=200;
 %Npts=Ns;
 plot(t(1:Npts),x(1:Npts)) %Plot first Npts of this 4-tone input signal
@@ -61,9 +60,9 @@ title('Time Plots of Input and Output');
 xlabel('time (s)'); ylabel('Input Sig');
 %Now apply this filter to the 4-tone test sequence
 y = filter(B,A,x);
-subplot(2,1,2); %Now go to bottom subplot.
-plot(t(1:Npts),y(1:Npts)); %Plot first Npts of filtered signal.
-xlabel('time (s)'); ylabel('Filtered Sig');
+% subplot(2,1,2); %Now go to bottom subplot.
+% plot(t(1:Npts),y(1:Npts)); %Plot first Npts of filtered signal.
+% xlabel('time (s)'); ylabel('Filtered Sig');
 %pause;
 figure; %Create a new figure window, so previous one isn't lost.
 subplot(2,1,1);

@@ -291,16 +291,31 @@ Aus dem Tiefpassfilter soll mittels Frequenztransformation ein Hochpass implemen
 
 \noindent Vergleicht man das Spektrum der beiden Filter so ist zu erkennen das der Hochpass nur eine Verschiebung um $\frac{F_{S}}{2} = \pi$ des Tiefpassfilter darstellt und umgekehrt. Mathematisch lässt sich das mit dem Verschiebungssatz beschreiben: $H_{HP}(\omega) = H_{TP}(\omega-\pi)$
 
-\begin{equation}
-H_{TP}(e^{j\omega})= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j\omega k} \rightarrow H_{HP} = H_{TP}(\omega-\pi)= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j(\omega-\pi) k} ....
-\end{equation}
+\begin{alignat}{1}
+H_{TP}(e^{j\omega})&= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j\omega k} \rightarrow H_{HP} = H_{TP}(\omega-\pi)= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{-j(\omega-\pi) k} \\
+H_{HP}(e^{j\omega})&= \sum_{k=0}^{N-1} h_{k_{TP}} \cdot e^{j\pi k} \cdot e^{-j \omega k}
+\end{alignat}
 
 \noindent Im Z-Bereich ergeben sich folgende Zusammenhänge.
 
 \begin{equation}
 H_{TP}(z)= \sum_{n=0}^{N-1} b_{n} z^{-n} \rightarrow H_{HP} = H_{TP}(-z)= \sum_{n=0}^{N-1} b_{n} (-z)^{-n} = \sum_{n=0}^{N-1} b_{n} (-1)^n(z)^{-n}
 \end{equation}
-Daraus lässt sich erkennen das einen Transformation zwischen  Hoch- und Tiefpass lediglich über das Vorzeichen der ungeraden Koeffizienten-Indizes herzuleiten ist.
+Daraus lässt sich erkennen das einen Transformation zwischen  Hoch- und Tiefpass lediglich über das Vorzeichen der ungeraden Koeffizienten-Indizes herzuleiten ist. Die Koeffizienten sind im folgenden Listing aufgeführt.
+
+\newpage
+
+\lstinputlisting[style=c, caption={FIR-Filter Koeffizienten Tiefpass \& Hochpass}, label={lst:fir_coeff_TP_HP}]{Code/coeff_firpm_attachement_e.h}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\linewidth]{Bilder/Attachment_E_fir_4_Amplitudengang}
+\caption{Amplitudengang Weichenfilter}
+\label{fig:Attachment_E_fir_4_Amplitudengang}
+\end{figure}
+
+\noindent Der gezeigt Amplitudengang des Weichenfilters in Abbildung \ref{fig:Attachment_E_fir_4_Amplitudengang} hat seine Eckfrequenzen im Sperrbereich bei $f_{g_{Sperr}} \approx 1,4 kHz$ und im Passbereich bei $f_{g_{Sperr}} \approx 1,84 kHz$
+
 
 \clearpage
 \subsection{F Weichenfilter Amplitudengang Hoch- und Tiefpass}

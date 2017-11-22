@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.12)  22 NOV 2017 16:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.12)  22 NOV 2017 16:59
 entering extended mode
 **main.tex
 ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\main.tex"
@@ -1808,15 +1808,7 @@ Overfull \vbox (21.32027pt too high) has occurred while \output is active []
 [21
 
  <C:/Users/Tommy/Desktop/Uni/6. Semester/DV/DVP03/Bilder/Attachment_G_1-TP.png>
-] ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.tex"
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-)
+] ("C:\Users\Tommy\Desktop\Uni\6. Semester\DV\DVP03\Fazit.tex")
 File: HawLogo.png Graphic file (type png)
 
 <use HawLogo.png>
@@ -1849,10 +1841,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 31009 strings out of 493921
- 710504 string characters out of 3144876
+ 30992 strings out of 493921
+ 710204 string characters out of 3144876
  1024568 words of memory out of 3000000
- 33482 multiletter control sequences out of 15000+200000
+ 33468 multiletter control sequences out of 15000+200000
  15761 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  62i,14n,96p,1113b,1767s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1874,7 +1866,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on main.pdf (24 pages, 945893 bytes).
+Output written on main.pdf (24 pages, 946623 bytes).
 PDF statistics:
  530 PDF objects out of 1000 (max. 8388607)
  223 named destinations out of 1000 (max. 500000)
